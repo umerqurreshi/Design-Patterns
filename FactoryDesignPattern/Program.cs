@@ -2,6 +2,9 @@
 
 namespace FactoryDesignPattern
 {
+    //Imagine you have a system that needs to create objects in many different places.Suppose the 
+    //system has integers and you want objects for those integers.The factory pattern is ideal for 
+    //this usage.
     class Program
     {
         static void Main(string[] args)

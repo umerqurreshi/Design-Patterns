@@ -54,6 +54,7 @@ namespace FactoryDesignPattern
         }
     }
 
+    // Create a Factory which handles the instantiation of the classes
     static class Factory
     {
         /// <summary>

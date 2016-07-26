@@ -64,7 +64,7 @@ namespace FactoryDesignPattern
             switch (id)
             {
                 case 0:
-                    return new Manager(); // example of Polymorphism
+                    return new Manager(); // example of Polymorphism Position p = new Manager();s
                 case 1:
                 case 2:
                     return new Clerk(); // example of Polymorphism
